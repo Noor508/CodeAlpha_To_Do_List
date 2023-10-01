@@ -1,11 +1,9 @@
 # To-Do List Web Application
 
-![App Screenshot](screenshot.png)
-![Uploading todolist.jpg…]()
-
-Manage your daily tasks efficiently with this simple and user-friendly To-Do List web application. 
-This app makes task management a breeze, allowing you to create, save, and organize your tasks hassle-free.
-
+Users can easily create, save,
+and organize their daily tasks. This app simplifies task
+management and provides a convenient way to track
+and prioritize tasks.
 ## Features
 
 - Create new tasks with a title and description.
@@ -13,11 +11,3 @@ This app makes task management a breeze, allowing you to create, save, and organ
 - Organize tasks into categories for better organization.
 - Edit or delete tasks as needed.
 - User-friendly interface for an intuitive task management experience.
-
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
